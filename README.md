@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Reputize is a leading end‑to‑end online hotel reputation management platform. It helps hotel professionals monitor, collect, and amplify guest reviews across over 100 OTAs and social media, providing analytics, benchmarking, alerts, and tools to boost online rankings and revenue.
+Reputize provides an end‑to‑end online hotel reputation management platform that aggregates guest reviews and social media mentions from over 100 OTA and social sources. It offers analytics, benchmarking against competitors, real‑time alerts, and tools to respond to reviews. The solution includes reputation marketing, multichannel surveys, and a local‑focused product to boost direct bookings and improve online rankings for hospitality businesses.
 
-**Areas:** Company · Hotel · Reputation · Reviews · SaaS
+**Areas:** Company · Hotel · Reputation Management · Analytics · SaaS
 
 ## Reputize on APIs.io
 
@@ -93,7 +93,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 9.4** — minimal · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 11.6** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
@@ -102,9 +102,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 2.4 |
-| Access clarity | 27.7 |
+| Access clarity | 34.2 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -119,7 +119,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -131,7 +131,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 7.8** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/reputize/](https://apis.io/providers/reputize/).
 
